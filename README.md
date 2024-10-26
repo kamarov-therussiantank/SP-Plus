@@ -8,9 +8,9 @@ Elevate your Space Rangers HD gameplay with those mods designed to enhance the v
 
 ---
 
-**How to install them?**
+How to Install Mods
 
-- In order to install those mods correctly, click on the green button thats says "Code" its is located above.
-- Then an window will pop up, giving you some other functions, but what you actually need to do is just to click on "Download ZIP"
-- After download finishes, you will need to extract the files (where ever you want).
-- Mods shall be placed into the (Mods/OtherMods)
+- Click the green button labeled "Code" at the top.
+- A window will pop up. Select "Download ZIP."
+- Once the download finishes, extract the files to your desired location.
+- Place the mods into the folder Mods/OtherMods.
